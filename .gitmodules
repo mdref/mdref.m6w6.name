@@ -1,0 +1,24 @@
+[submodule "mdref"]
+	path = mdref
+	url = github.com:m6w6/mdref.git
+[submodule "mdref-http"]
+	path = refs/http
+	url = github.com:m6w6/mdref-http.git
+[submodule "mdref-pq"]
+	path = refs/pq
+	url = github.com:m6w6/mdref-pq.git
+[submodule "mdref-pq-gateway"]
+	path = refs/pq-gateway
+	url = github.com:m6w6/mdref-pq-gateway.git
+[submodule "mdref-raphf"]
+	path = refs/raphf
+	url = github.com:m6w6/mdref-raphf.git
+[submodule "mdref-propro"]
+	path = refs/propro
+	url = github.com:m6w6/mdref-propro.git
+[submodule "mdref-apfd"]
+	path = refs/apfd
+	url = github.com:m6w6/mdref-apfd.git
+[submodule "mdref-json_post"]
+	path = refs/json_post
+	url = github.com:m6w6/mdref-json_post.git
