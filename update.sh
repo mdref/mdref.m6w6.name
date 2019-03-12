@@ -14,3 +14,4 @@ for ref in http pq; do
 	fi
 done
 cd ..
+git ci -am "update live" && git push
